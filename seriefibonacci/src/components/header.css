@@ -1,0 +1,18 @@
+.header{
+  display: flex;
+  flex-direction: row;
+  width: 80vw;
+  min-width: 100vw;
+  background-color: #90999B;
+}
+
+.date{
+  font-size: 1rem;
+  position: absolute;
+  left: 80vw;
+}
+
+.title{
+  font-size: 2rem;
+  margin-left: 2rem;
+}
